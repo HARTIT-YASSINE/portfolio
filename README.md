@@ -6,7 +6,7 @@
 **Phone:** +212775355711
 
 ## Summary
-- Strong skills in web development using Symfony, WordPress, PHP, HTML, JavaScript, and JQuery.
+- Strong skills in web development using WordPress, PHP, HTML, JavaScript, and JQuery.
 - Experience with project management and database management (MySQL).
 - Familiar with statistical analysis and IT tools (MS Office, UML, Merise).
 
