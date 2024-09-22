@@ -187,6 +187,7 @@ function showSlides() {
   to {opacity: 1}
 }
 </STYLE>
+<HTML>
 <!-- Slideshow container -->
 <div class="slideshow-container">
 
@@ -221,3 +222,4 @@ function showSlides() {
   <span class="dot" onclick="currentSlide(2)"></span>
   <span class="dot" onclick="currentSlide(3)"></span>
 </div>
+</HTML>
