@@ -1,4 +1,4 @@
-# Hartit Yassine     <BR>  <img src="C:\Users\HP\Downloads\yassi.jpeg" style="with:500PX; height:200PX">
+# DEVELOPPEMENT WEB
 
 **Date of Birth:** 03/07/1991  
 **Location:** Marrakech  
