@@ -38,14 +38,10 @@
 
 ## Diplomas
 
-<table>
-  <tr>
-    <th><img src="./BACR.jpeg"/></th>
-    <th><img src="./BACV.jpeg"/></th>
-    <th><img src="./DEUG.jpeg"/></th>
-        <th><img src="./LICENCE.jpeg"/></th>
-    <th><img src="./DIPLOME.jpeg"/></th>
-        <th><img src="./TELE.jpeg"/></th>
-    <th><img src="./ATTIHS.jpeg"/></th>
-  </tr>
-</table>
+<img src="./BACR.jpeg"/>
+<img src="./BACV.jpeg"/>
+<img src="./DEUG.jpeg"/>
+<img src="./LICENCE.jpeg"/>
+<img src="./DIPLOME.jpeg"/>
+<img src="./TELE.jpeg"/>
+<img src="./ATTIHS.jpeg"/>
