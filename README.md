@@ -38,7 +38,7 @@
 
 ## Diplomas
 <figure>
-![ Texte alternatif](/BACV.JPEG "Titre de l'image")
+[image](/BACV.JPEG)
 <img src="/BACV.JPEG">
 <img src="/BACV.JPEG">
 <img src="/BACV.JPEG">
