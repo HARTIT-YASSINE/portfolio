@@ -40,12 +40,12 @@
 
 <table>
   <tr>
-    <th><img src="./BACR.jpeg" width="100" height="100"/></th>
-    <th><img src="./BACV.jpeg" width="100" height="100"/></th>
-    <th><img src="./DEUG.jpeg" width="100" height="100"/></th>
-        <th><img src="./LICENCE.jpeg" width="100" height="100"/></th>
-    <th><img src="./DIPLOME.jpeg" width="100" height="100"/></th>
-        <th><img src="./TELE.jpeg" width="100" height="100"/></th>
-    <th><img src="./ATTIHS.jpeg" width="100" height="100"/></th>
+    <th><img src="./BACR.jpeg" width="300" height="100"/></th>
+    <th><img src="./BACV.jpeg" width="300" height="100"/></th>
+    <th><img src="./DEUG.jpeg" width="300" height="100"/></th>
+        <th><img src="./LICENCE.jpeg" width="300" height="100"/></th>
+    <th><img src="./DIPLOME.jpeg" width="300" height="100"/></th>
+        <th><img src="./TELE.jpeg" width="300" height="100"/></th>
+    <th><img src="./ATTIHS.jpeg" width="300" height="100"/></th>
   </tr>
 </table>
