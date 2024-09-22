@@ -38,5 +38,5 @@
 
 ## Diplomas
 <figure>
-<img bv-data-src="/BACV.JPEG">
+<img bv-data-src="/MAIN/BACV.JPEG">
 </figure>
