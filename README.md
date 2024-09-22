@@ -35,3 +35,6 @@
 ## Interests
 - Traveling, Internet browsing, Swimming
 - Driving License (Category B)
+
+## Diplomas
+- **BACCALAUREATE <BR> <img src="/BACR.jpeg">
