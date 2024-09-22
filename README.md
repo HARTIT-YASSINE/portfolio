@@ -37,4 +37,4 @@
 - Driving License (Category B)
 
 ## Diplomas
-- **BACCALAUREATE <BR> <img src="/BACR.jpeg">
+- **BACCALAUREATE <BR> <img src="/main/BACR.jpeg">
