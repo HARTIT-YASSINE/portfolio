@@ -16,9 +16,9 @@
 - **Software:** MS Word, Excel, PowerPoint, Access
 
 ## Experience
-**06/2024-Present:** Customer service at Wafasalaf<br>
-**02/2024-Present:** Create site web <a href="travelxcursion.com">travelxcursion.com</a><br>
-**02/2024-Present:** Create site web <a href="giftsmorocco.com">giftsmorocco.com</a><br>
+**06/2024-Present:** Customer Service at Wafasalaf<br>
+**02/2024-Present:** Create Site Web <a href="travelxcursion.com">travelxcursion.com</a><br>
+**02/2024-Present:** Create Site Web <a href="giftsmorocco.com">giftsmorocco.com</a><br>
 **08/2018-Present:** Manager, Phone Accessories Store<br>
 **17/11/2015 – 08/2018:** Mailer, Operating Media (Tanger)<br>
 **06/04 – 16/05/2015:** Intern, RADEEL (Larache)<br>
