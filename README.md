@@ -16,7 +16,7 @@
 - **Software:** MS Word, Excel, PowerPoint, Access
 
 ## Experience
-**06/2024-Present:** Charge clientele chez wafasalaf<br>
+**06/2024-Present:** Customer service at Wafasalaf<br>
 **02/2024-Present:** Create site web <a href="travelxcursion.com">travelxcursion.com</a><br>
 **02/2024-Present:** Create site web <a href="giftsmorocco.com">giftsmorocco.com</a><br>
 **08/2018-Present:** Manager, Phone Accessories Store<br>
