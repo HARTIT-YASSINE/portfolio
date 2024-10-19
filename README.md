@@ -1,4 +1,4 @@
-# DEVELOPPEMENT WEB
+# WEB DEVELOPER
 
 **Date of Birth:** 03/07/1991  
 **Location:** Marrakech  
