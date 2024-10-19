@@ -11,8 +11,8 @@
 - Familiar with statistical analysis and IT tools (MS Office, UML, Merise).
 
 ## Skills
-- **Languages:** Arabic (Native), French (Fluent), English (Reading, Writing)
-- **Technical Skills:** Symfony, WordPress, PHP, HTML, JavaScript, JQuery, MySQL, Project Management
+- **Languages:** Arabic (Native), French (Fluent), English (Reading, Writing), Spanish (Reading, Writing)
+- **Technical Skills:** WordPress, PHP, HTML, JavaScript, JQuery, MySQL, Project Management
 - **Software:** MS Word, Excel, PowerPoint, Access
 
 ## Experience
