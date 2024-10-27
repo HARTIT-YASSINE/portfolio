@@ -4,7 +4,7 @@
 **Location:** Marrakech  
 **Email:** hartit00@gmail.com  
 **Phone:** +212775355711<br>
-**Driving License:** (Category B)
+**Driving License:** Category B
 
 ## Summary
 - Strong skills in web development using WordPress, PHP, HTML, JavaScript, and JQuery.
