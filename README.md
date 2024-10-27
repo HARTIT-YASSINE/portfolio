@@ -19,14 +19,14 @@
 ## Experience
 **06/2024 - Present:** Customer Service at Wafasalaf (Marrakech)<br>
 <ul>
-  <li>Mission Executed:</li>
-    <ul>
-      <li>Prospection et fidélisation des clients.</li>
-      <li>Commercialisation des produits et services.</li>
-      <li>Gestion des dossiers.</li>
-      <li>Apport de conseils auprès de sa clientèle.</li>
-      <li>Négociation.</li>
-    </ul>
+<li>Mission Executed:</li>
+<ul>
+<li>Prospecting and customer loyalty.</li>
+<li>Marketing of products and services.</li>
+<li>File management.</li>
+<li>Providing advice to customers.</li>
+<li>Negotiation.</li>
+</ul>
 </ul>
 **02/2024 - Present:** Create Site Web travelxcursion.com<br>
 <ul>
