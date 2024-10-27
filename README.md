@@ -3,7 +3,7 @@
 **Date of Birth:** 03/07/1991  
 **Location:** Marrakech  
 **Email:** hartit00@gmail.com  
-**Phone:** +212775355711
+**Phone:** +212775355711<br>
 **Driving License:** (Category B)
 
 ## Summary
