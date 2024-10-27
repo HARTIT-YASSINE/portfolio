@@ -27,7 +27,7 @@
       <li>Négociation.</li>
     </ul>
 </ul>
-**02/2024 - Present:** Create Site Web <a href="travelxcursion.com">travelxcursion.com</a><br>
+**02/2024 - Present:** Create Site Web travelxcursion.com<br>
 <ul>
 <li>Mission Executed:</li>
 <ul>
@@ -36,7 +36,7 @@
 <li>Using design software to design user interfaces with writing code in HTML, CSS and JavaScript to build the user interface.</li>
 </ul>
 </ul>
-**02/2024 - Present:** Create Site Web <a href="giftsmorocco.com">giftsmorocco.com</a><br>
+**02/2024 - Present:** Create Site Web giftsmorocco.com<br>
 <ul>
 <li>Mission Executed:</li>
 <ul>
