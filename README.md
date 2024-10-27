@@ -4,6 +4,7 @@
 **Location:** Marrakech  
 **Email:** hartit00@gmail.com  
 **Phone:** +212775355711
+**Driving License:** (Category B)
 
 ## Summary
 - Strong skills in web development using WordPress, PHP, HTML, JavaScript, and JQuery.
@@ -74,8 +75,9 @@
 - **2008-2009:** High School Diploma in Life and Earth Sciences, Moulay Mohamed Ben Abdallah High School
 
 ## Interests
-- Traveling, Internet browsing, Swimming
-- Driving License (Category B)
+- Traveling,
+- Internet browsing
+- Swimming
 
 ## Diplomas
 
