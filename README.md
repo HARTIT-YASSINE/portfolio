@@ -19,7 +19,7 @@
 ## Experience
 **06/2024 - Present:** Customer Service at Wafasalaf (Marrakech)<br>
 <ul>
-  <li>Mission Exécutés :</li>
+  <li>Mission Executed:</li>
     <ul>
       <li>Prospection et fidélisation des clients.</li>
       <li>Commercialisation des produits et services.</li>
