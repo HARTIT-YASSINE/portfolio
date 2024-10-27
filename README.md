@@ -17,7 +17,7 @@
 - **Software:** MS Word, Excel, PowerPoint, Access
 
 ## Experience
-**06/2024 - Present:** Customer Service at Wafasalaf<br>
+**06/2024 - Present:** Customer Service at Wafasalaf (Marrakech)<br>
 <ul>
   <li>Mission Exécutés :</li>
     <ul>
@@ -46,7 +46,7 @@
 <li>Using design software to design user interfaces with writing code in HTML, CSS and JavaScript to build the user interface.</li>
 </ul>
 </ul>
-**08/2018 - 05/2024:** Manager, Phone Accessories Store<br>
+**08/2018 - 05/2024:** Manager, Phone Accessories Store (Assilah)<br>
 <ul>
 <li>Mission Executed:</li>
 <ul>
