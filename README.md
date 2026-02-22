@@ -9,16 +9,16 @@
 ## Summary
 -Conseiller commercial avec une double compétence en économie et informatique, je combine analyse stratégique et maîtrise des outils technologiques pour offrir des solutions adaptées aux besoins clients.
 
--Relation client : empathie, écoute active et capacité à créer un lien durable et de confiance.
+-**Relation client :** empathie, écoute active et capacité à créer un lien durable et de confiance.
 
--Négociation & persuasion : expérience dans l’adaptation du discours pour convaincre et fidéliser.
+-**Négociation & persuasion :** expérience dans l’adaptation du discours pour convaincre et fidéliser.
 
--Outils CRM & digital : maîtrise des solutions numériques pour optimiser la gestion de portefeuille clients.
+-**Outils CRM & digital :** maîtrise des solutions numériques pour optimiser la gestion de portefeuille clients.
 
 
 -Diplômé en sciences économiques et gestion ainsi qu’en développement informatique, je mets à profit une vision polyvalente et orientée résultats.
 
-🎯 Objectif : contribuer à la croissance commerciale d’entreprises innovantes, tout en développant des stratégies de fidélisation client et en intégrant les nouvelles technologies dans les processus de vente.
+🎯 **Objectif :** contribuer à la croissance commerciale d’entreprises innovantes, tout en développant des stratégies de fidélisation client et en intégrant les nouvelles technologies dans les processus de vente.
 
 ## Skills
 - **Languages:** Arabic (Native), French (Fluent), English (Reading, Writing), Spanish (Reading, Writing)
