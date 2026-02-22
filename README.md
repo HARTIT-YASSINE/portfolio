@@ -7,18 +7,17 @@
 **Driving License:** Category B
 
 ## Summary
--Conseiller commercial avec une double compétence en économie et informatique, je combine analyse stratégique et maîtrise des outils technologiques pour offrir des solutions adaptées aux besoins clients.
+-Commercial Advisor with dual expertise in Economics and Computer Science, combining strategic analysis and technological proficiency to deliver solutions tailored to client needs.
 
--**Relation client :** empathie, écoute active et capacité à créer un lien durable et de confiance.
+-**Client Relationship Management:** Empathy, active listening, and the ability to build long-term, trust-based relationships.
 
--**Négociation & persuasion :** expérience dans l’adaptation du discours pour convaincre et fidéliser.
+-**Negotiation & Persuasion:** Experienced in adapting communication strategies to convince, retain, and strengthen customer loyalty.
 
--**Outils CRM & digital :** maîtrise des solutions numériques pour optimiser la gestion de portefeuille clients.
+-**CRM & Digital Tools:** Proficient in digital solutions to optimize customer portfolio management and improve sales processes.
 
+Graduated in Economic Sciences and Management as well as in Software Development, bringing a versatile, results-driven perspective to business growth.
 
--Diplômé en sciences économiques et gestion ainsi qu’en développement informatique, je mets à profit une vision polyvalente et orientée résultats.
-
-🎯 **Objectif :** contribuer à la croissance commerciale d’entreprises innovantes, tout en développant des stratégies de fidélisation client et en intégrant les nouvelles technologies dans les processus de vente.
+🎯 **Objective:** To contribute to the commercial growth of innovative companies by developing effective customer retention strategies and integrating new technologies into sales processes.
 
 ## Skills
 - **Languages:** Arabic (Native), French (Fluent), English (Reading, Writing), Spanish (Reading, Writing)
