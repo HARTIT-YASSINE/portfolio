@@ -1,9 +1,9 @@
 # WEB DEVELOPER
 
 **Date of Birth:** 03/07/1991  
-**Location:** Meknes  
+**Place of Birth:** Meknes  
 **Email:** hartit00@gmail.com  
-**Phone:** +212775355711<br>
+**Phone:** +212703819156<br>
 **Driving License:** Category B
 
 ## Summary
