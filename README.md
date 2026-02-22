@@ -7,14 +7,24 @@
 **Driving License:** Category B
 
 ## Summary
-- Strong skills in web development using WordPress, PHP, HTML, JavaScript, and JQuery.
-- Experience with project management and database management (MySQL).
-- Familiar with statistical analysis and IT tools (MS Office, UML, Merise).
+-Conseiller commercial avec une double compétence en économie et informatique, je combine analyse stratégique et maîtrise des outils technologiques pour offrir des solutions adaptées aux besoins clients.
+
+-Relation client : empathie, écoute active et capacité à créer un lien durable et de confiance.
+
+-Négociation & persuasion : expérience dans l’adaptation du discours pour convaincre et fidéliser.
+
+-Outils CRM & digital : maîtrise des solutions numériques pour optimiser la gestion de portefeuille clients.
+
+
+-Diplômé en sciences économiques et gestion ainsi qu’en développement informatique, je mets à profit une vision polyvalente et orientée résultats.
+
+🎯 Objectif : contribuer à la croissance commerciale d’entreprises innovantes, tout en développant des stratégies de fidélisation client et en intégrant les nouvelles technologies dans les processus de vente.
 
 ## Skills
 - **Languages:** Arabic (Native), French (Fluent), English (Reading, Writing), Spanish (Reading, Writing)
 - **Technical Skills:** WordPress, PHP, HTML, JavaScript, JQuery, MySQL, Project Management
-- **Software:** MS Word, Excel, PowerPoint, Access
+- **Software:** CRM Software Management (data entry, segmentation, reporting), MS Word, Excel, PowerPoint, Access
+- **Core Skills:** Customer Relationship Management (CRM), Sales Consulting & Client Advisory, Adaptability & Continuous Learning, Team Collaboration
 
 ## Experience
 **06/2024 - Present:** Customer Service at Wafasalaf (Marrakech)<br>
