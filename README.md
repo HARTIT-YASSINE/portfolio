@@ -24,7 +24,7 @@
 - **Languages:** Arabic (Native), French (Fluent), English (Reading, Writing), Spanish (Reading, Writing)
 - **Technical Skills:** WordPress, PHP, HTML, JavaScript, JQuery, MySQL, Project Management
 - **Software:** CRM Software Management (data entry, segmentation, reporting), MS Word, Excel, PowerPoint, Access
-- **Core Skills:** Customer Relationship Management (CRM), Sales Consulting & Client Advisory, Adaptability & Continuous Learning, Team Collaboration
+- **Core Skills:** Customer Relationship Management (CRM), Sales Consulting & Client Advisory, Adaptability & Continuous Learning, Team                       Collaboration
 
 ## Experience
 **06/2024 - Present:** Customer Service at Wafasalaf (Marrakech)<br>
