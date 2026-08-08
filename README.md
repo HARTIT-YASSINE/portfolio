@@ -1,4 +1,4 @@
-# Commercial Advisor & CRM Specialist | Dual Expertise in Economics & Computer Science | Business Development & Customer Retention
+# Partner Account Manager | Business Development | Partner Relationship Management | Customer Retention
 
 **Date of Birth:** 03/07/1991  
 **Place of Birth:** Meknes  
@@ -7,17 +7,19 @@
 **Driving License:** Category B
 
 ## Summary
--Commercial Advisor with dual expertise in Economics and Computer Science, combining strategic analysis and technological proficiency to deliver solutions tailored to client needs.
+-**Partner Account Manager** with dual expertise in Economics and Computer Science, combining commercial analysis and technological proficiency to develop partner accounts, strengthen business relationships, and support sustainable revenue growth.
 
--**Client Relationship Management:** Empathy, active listening, and the ability to build long-term, trust-based relationships.
+-**Partner Relationship Management:** Strong ability to build and maintain long-term, trust-based relationships with partners, understand their business needs, and provide tailored commercial solutions.
 
--**Negotiation & Persuasion:** Experienced in adapting communication strategies to convince, retain, and strengthen customer loyalty.
+-**Negotiation & Business Development:** Experienced in negotiating commercial agreements, identifying growth opportunities, developing partnerships, and strengthening partner engagement and retention.
 
--**CRM & Digital Tools:** Proficient in digital solutions to optimize customer portfolio management and improve sales processes.
+-**Account & Performance Management:** Skilled in monitoring partner portfolios, tracking performance, identifying opportunities for improvement, and contributing to the achievement of commercial objectives.
 
-Graduated in Economic Sciences and Management as well as in Software Development, bringing a versatile, results-driven perspective to business growth.
+-**CRM & Digital Tools:** Proficient in CRM and digital solutions to optimize partner portfolio management, improve follow-up, and support efficient sales processes.
 
-🎯 **Objective:** To contribute to the commercial growth of innovative companies by developing effective customer retention strategies and integrating new technologies into sales processes.
+Graduated in Economic Sciences and Management as well as in Software Development, bringing a versatile, analytical, and results-driven perspective to partner management and business development.
+
+🎯 **Objective:** To contribute to the growth of innovative companies by developing strong partner relationships, expanding strategic accounts, identifying new business opportunities, and improving partner performance through effective account management and digital solutions.
 
 ## Skills
 - **Languages:** Arabic (Native), French (Fluent), English (Reading, Writing), Spanish (Reading, Writing)
@@ -26,7 +28,7 @@ Graduated in Economic Sciences and Management as well as in Software Development
 - **Core Skills:** Customer Relationship Management (CRM), Sales Consulting & Client Advisory, Adaptability & Continuous Learning, Team                       Collaboration
 
 ## Experience
-**06/2024 - Present:** Customer Service at Wafasalaf (Marrakech)<br>
+**06/2024 - Present:** Partner Account Manager at Wafasalaf (BOUDERKA SARL, C.A.C)<br>
 <ul>
 <li>Mission Executed:</li>
 <ul>
